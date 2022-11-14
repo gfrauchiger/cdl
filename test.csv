@@ -1,2 +1,2 @@
-﻿Name,URRL,Duration,UpdateInterval,StartOn,EndBy,Cache
-test,,,,,,
+﻿Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+test,https://raw.githubusercontent.com/gfrauchiger/cdl/main/College_du_Leman_Logo.png,,,,,yes
