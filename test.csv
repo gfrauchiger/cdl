@@ -1,5 +1,5 @@
 ﻿Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-2022.jpg,00:00:10,01:00:00,01/01/2018 00:00,12/31/30 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20222.jpg,01:00:10,01:00:00,02/01/2018 00:00,12/31/30 23:59,yes
-Exhibit03,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20223.jpg,02:00:10,01:00:00,03/01/2018 00:00,12/31/30 23:59,yes
-Exhibit04,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20224.jpg,03:00:10,01:00:00,04/01/2018 00:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20222.jpg,00:00:10,01:00:00,02/01/2018 00:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20223.jpg,00:00:10,01:00:00,03/01/2018 00:00,12/31/30 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/gfrauchiger/cdl/main/CDL-IT-screens-test-20224.jpg,00:00:10,01:00:00,04/01/2018 00:00,12/31/30 23:59,yes
